@@ -25,7 +25,7 @@ The project is also significant because it advances a **governed scientific AI s
 
 This project is innovative in four ways. First, it treats **multi-agent orchestration** as the computational mechanism by which 19C-style composability is realized. Second, it introduces a **from-scratch viral protein foundation model** as a specialized scientific module optimized for viral sequence-function-evolution representation rather than relying exclusively on general-purpose protein models. Third, it emphasizes a **sovereign scientific model stack** in which data pipelines, training, evaluation, provenance, and deployment are governed, auditable, and reproducible. Fourth, it evaluates success not solely by task accuracy, but by **AI advantage metrics** spanning reasoning quality, uncertainty calibration, evidence traceability, and workflow efficiency, consistent with the FOA’s requirement for proof of concept, validation, and scalability.
 
-## Specific Aim 1
+## Aim 1
 
 **Develop a governed base scientific LLM for multi-agent orchestration of viral science workflows.**
 
@@ -35,7 +35,7 @@ We will build a base scientific reasoning model that serves as the orchestration
 
 **Expected outcome:** A prototype base scientific LLM capable of planning and coordinating closed-loop viral analysis workflows, with provenance-aware intermediate reasoning records and modular hooks for downstream agents and tools. This aim will provide the architectural backbone required for all later compositional reasoning.
 
-## Specific Aim 2
+## Aim 2
 
 **Train a prototype from-scratch viral protein foundation model as a specialized reasoning module.**
 
@@ -45,7 +45,7 @@ We will train a prototype viral protein foundation model on curated viral protei
 
 **Expected outcome:** A trained prototype viral protein model that produces domain-specialized representations and mutation-effect priors for downstream reasoning tasks such as antigenic escape assessment and host-adaptation analysis. This aim will establish the core specialized model that differentiates the proposed system from general scientific LLM approaches.
 
-## Specific Aim 3
+## Aim 3
 
 **Build a modular multi-agent integration framework connecting specialized agents and scientific tools.**
 
@@ -55,7 +55,7 @@ We will implement a multi-agent framework in which the base scientific LLM coord
 
 **Expected outcome:** A working proof-of-concept multi-agent environment in which heterogeneous scientific tools and foundation models can be flexibly composed into an auditable reasoning workflow. This aim directly operationalizes the “composable and modular foundation models” objective of 19C. 
 
-## Specific Aim 4
+## Aim 4
 
 **Demonstrate and quantify AI advantage on closed-loop viral science workflows.**
 
