@@ -2250,6 +2250,197 @@ Grants.gov 明确建议：申请包应至少在截止前 **24–48 小时** 提�
 * 一定要确认 **Opportunity Number** 正确。
 * 一定要提前提交、核对 Tracking Number、保存确认邮件，并确保收到 SC 下载确认。
 
+继续。下面把 **Section IX.B — How-To Guides（操作指南）** 继续翻成中文。当前能清楚检索到的，主要是 **PAMS 相关操作说明** 和 **如何在 PAMS 查看已提交申请**。
+
+## IX.B 操作指南（How-To Guides）
+
+### 14. 如何在 PAMS 中建立账户并关联机构/申请
+
+如果你还没有 **PAMS** 账户，文件给出的注册步骤如下：
+
+1. 进入 PAMS 网站，点击 **“Create New PAMS Account”**。
+2. 选择 **“No, I have never had an account”**，再点击 **“Create Account”**。
+3. 输入姓名和邮箱，创建用户名和密码，并设置安全问题与答案，然后点击 **“Save and Continue”**。
+4. 在下一页填写所需信息，至少包括一个电话号码和邮寄地址；也可以填写传真、网站、mailstop code、附加邮箱或电话、Division/Department 等可选信息。然后点击 **“Create Account”**。
+5. 阅读用户协议，并点击 **“Accept”**，表示理解并同意遵守 PAMS 的行为规则。
+
+接下来，系统会带你进入 **Register to Institution** 页面。文件列出了两种常见路径：
+
+#### 方式 1：如果你的机构已经在 Grants.gov 提交过 proposal
+
+选择：
+**“Option 1: My institution has submitted a proposal in Grants.gov. I am here to register as an SRO, PI, or POC.”**
+然后填写：
+
+* **Proposal ID**：填写 10 位数的 **PAMS proposal ID**，含前导零，例如 `00002xxxxx`。**不要填写 Grants.gov proposal number**。应使用 DOE 邮件 “Receipt of Proposal …” 中发给你的那个 PAMS 号码。
+* **Email (as entered in Grants.gov proposal)**：填写你在 SF-424(R&R) Cover Page 中使用的邮箱。
+* **Choose Role**：按你在 SF-424(R&R) 封面页中的身份选择角色：
+
+  * Block 19 中的授权代表：选 **SRO/BO/AO**
+  * Block 14 中的 PI：选 **Principal Investigator (PI)**
+  * Block 5 中的联系人：选 **Other (POC)**
+
+填写完后点击 **“Save and Continue”**，系统会把该 Grants.gov proposal 加到你的 “My Proposals” 页面。此后，你可以在该 proposal 旁边的 **“Actions/Views”** 下拉菜单中选择 **“Proposal”** 查看。
+
+#### 方式 2：如果需要把自己关联到机构
+
+如果在机构搜索结果中找到了你的机构：
+
+* 在机构名旁边的 **“Actions”** 菜单中选择 **“Add me to this institution”**。
+
+如果第一次搜索没找到：
+
+* 可以点击 **“Cancel”**，再点 **Option 2** 重新搜索。
+
+如果确认数据库中没有你的机构：
+
+* 点击 **“Cannot Find My Institution”**；
+* 填写机构信息；
+* 点击 **“Create Institution”**。
+  系统会把该机构加入数据库，并把你的 profile 与新机构关联。
+
+### PAMS 帮助方式
+
+如果使用 PAMS 时遇到问题：
+
+* 可以点击 PAMS 网站上的 **“PAMS Help”**；
+* 也可以联系 **PAMS Help Desk**。
+
+工作时间为周一至周五，东部时间 **9:00 AM – 5:30 PM**。
+电话：**(855) 818-1846**（免费）或 **(301) 903-9610**
+邮箱：**[sc.pams-helpdesk@science.doe.gov](mailto:sc.pams-helpdesk@science.doe.gov)**
+与本 RFA 有关的咨询，都应注明封面上的 **RFA 编号**。
+
+## 15. 如何在 PAMS 中查看已提交的申请（How to View Applications in PAMS）
+
+文件说明：每一份通过 **Grants.gov** 提交到 DOE SC 的申请，都会自动转入 **PAMS**，随后分配给一位 program manager。
+当 program manager 分配完成时，SF-424(R&R) 封面页上列出的三个人会收到一封主题类似于
+**“Receipt of Proposal 0000xxxxxx by the DOE Office of Science”**
+的邮件。收到邮件的三类人员是：
+
+* PI（Block 14）
+* Authorized Representative（Block 19）
+* Point of Contact（Block 5）
+
+在 PAMS 术语中，这三类人分别对应：
+
+* **PI**
+* **SRO/BO/AO**
+* **POC**。 
+
+DOE 特别提醒：
+从 Grants.gov 接收申请，到 DOE SC 给其分配 program manager，中间会有一段时间；通常 program manager 会在 **截止日后约两周**完成分配。
+因此，在收到上述邮件之前，**不要急着去 PAMS 里找 proposal**。
+
+### 如果你已经有 PAMS 账户
+
+查看步骤如下：
+
+1. 登录 PAMS。
+2. 点击 **“Proposals”** 标签。
+3. 点击 **“Access Previously Submitted Grants.gov Proposal.”**
+4. 输入：
+
+   * **Proposal ID**：10 位 PAMS proposal ID（带前导零），不要用 Grants.gov proposal number。
+   * **Email (as entered in Grants.gov application)**：填写你在 SF-424(R&R) Cover Page 中使用的邮箱。
+5. 点击 **“Save and Continue”**。
+6. 系统会把该 proposal 加到你的 **“My Proposals”** 页面。
+7. 在 proposal 旁边点击 **“Actions/Views”**，下拉选择 **“Proposal”** 即可查看。
+
+### 如果你还没有 PAMS 账户
+
+文件说明，可以先按前面第 14 节的方法创建账户；创建并接受 Rules of Behavior 后，再按上述流程把自己关联到该 proposal。
+如果你曾在过往提交中被列为 PI，但从未真正创建过账户，那么系统中可能已经有你的记录。若出现这种情况，接受 Rules of Behavior 后系统会直接把你带到 PAMS 首页；此时再按照“已拥有账户”的流程去访问 proposal 即可。
+
+## 这一段的实际意义
+
+这一部分的核心不是“用 PAMS 提交申请”，因为本 RFA 明确要求**申请必须经由 Grants.gov 提交**；PAMS 在这里主要承担的是：
+
+* 账户与机构信息维护
+* proposal 转入后的查看
+* DOE SC 后续管理接口。
+
+## 下一步
+
+再往后就是 **Section IX.C 行政与国家政策要求** 和 **IX.D 术语表** 的更细节条文与定义。
+你回复“继续”，我就接着往后翻。
+
+继续。下面把 **Section IX.C（行政与国家政策要求）** 和 **IX.D（参考材料/术语表）** 再往后继续翻。当前可明确确认的内容如下。
+
+## IX.C 行政与国家政策要求（续）
+
+### 39. 美国竞争力（U.S. Competitiveness）
+
+文件说明：DOE 强调受资助研发成果应尽可能转化为**美国国内制造能力**与**美国产业竞争力**。因此，申请人一旦接受联邦资金支持项目，就必须同意遵守一项 **U.S. Competitiveness Provision（美国竞争力条款）**：
+凡是**体现了 subject invention（受资助项目中的发明）**的产品，或**使用了 subject invention 生产**的产品，原则上都应当**在美国实质性制造**；除非受资助方能够令 DOE 满意地证明，这在商业上不可行。
+
+文件进一步解释：
+
+* **subject invention** 是指在 award 支持下完成工作过程中被构思出来或首次实际实现的任何发明；
+* **invention** 指任何已经或可能具有可专利性的发明或发现；
+* 这里的 recipient 范围很广，包含 awardee、recipient、sub-awardee、sub-recipient。
+
+如果某个实体无法满足这项美国竞争力条款，可向 DOE 申请对该条款进行**修改或豁免**；若 DOE 批准，就会相应修改该实体适用的 award terms and conditions。文件还指出，DOE 已就此发布专门的 Financial Assistance Letter，并提供了相关指导。
+
+### 40. 更新 PAMS 档案（Updating Your Portfolio Analysis and Management System (PAMS) Profile）
+
+DOE 鼓励所有申请人定期更新自己在 **PAMS** 网站中的个人资料，以确保 SC 始终拥有最新信息。
+PAMS 个人档案允许填写多个字段，也允许选择 **“Do not wish to provide”**。文件特别说明：
+
+* 这些个人信息**不会分享给同行评审人**；
+* PAMS 中的信息受 **1974 年联邦隐私法（Federal Privacy Act of 1974）** 保护。
+
+## IX.D 参考材料（Reference Material）
+
+### 术语表（Glossary of Terms）续译
+
+下面继续把当前可见的术语往下翻：
+
+#### Acquisition cost（取得成本）
+
+取得成本是指为了使某项资产达到预定用途所发生的成本。
+例如，对设备而言，取得成本包括设备净发票价格，以及使其能够用于预定用途所必需的改装、附件、配件和辅助装置成本。
+对软件而言，取得成本还包括按照 **GAAP（公认会计原则）**应资本化的开发成本。
+税费、关税、运输保险、运费和安装费等附带费用，可以根据非联邦实体的一贯会计做法，计入或不计入取得成本。
+
+#### Administrative requirements（行政要求）
+
+行政要求是指各类 grant 管理中普遍适用的业务管理做法，例如：
+
+* 财务问责
+* 报告
+* 设备管理
+* 记录保存。 
+
+#### Advance payment（预付款）
+
+预付款，是指联邦资助机构或 pass-through entity 通过适当支付机制（包括预定支付时间表）在非联邦实体为项目目的实际支出资金之前，就先行支付的款项。
+
+#### Allocation（分摊/分配）
+
+Allocation 是指把一项成本，或一组成本，按照与其所带来收益相称、或其他公平关系的方式，分配到一个或多个成本目标（cost objective）的过程。
+这一过程可以是：
+
+* 直接把某项成本分配给最终成本目标；
+* 或先通过一个或多个中间成本目标，再进行分配。
+
+#### Allocability（可归属性）
+
+Allocability 要求被计入项目的费用或服务必须：
+
+* 直接使该项目受益；
+* 对项目执行是必要的；
+* 如果多个项目共同受益，则必须能够按合理比例进行分配。
+
+## 这一段的意义
+
+到这里，Section IX 后段里最关键、最容易被忽视的两层意思已经比较清楚：
+
+一是 **DOE 很强调美国本土制造与产业落地**，不仅看研究是否成功，也看成果未来是否能在美国形成制造能力。
+
+二是 **Section IX.D 的术语表其实很重要**，因为它决定了预算、成本、记录、资助管理中的很多词到底按什么联邦定义来解释。
+
+你前面要求把已翻译内容整合成一个 Word 文件。现在我已经把后续内容也继续补了一段。你下一条如果回复“开始整理成Word”，我就把目前所有已翻译部分汇总成一个可下载的 Word 文档。
 
 
 
